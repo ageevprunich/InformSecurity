@@ -1,4 +1,6 @@
-﻿using System.Security.Cryptography;
+﻿
+
+using System.Security.Cryptography;
 
 var rnd = new RNGCryptoServiceProvider();
 var rndNum = new byte[10];
