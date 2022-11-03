@@ -1,0 +1,15 @@
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\bin\Debug\net6.0\LW3.1.exe
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\bin\Debug\net6.0\LW3.1.deps.json
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\bin\Debug\net6.0\LW3.1.runtimeconfig.json
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\bin\Debug\net6.0\LW3.1.dll
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\bin\Debug\net6.0\LW3.1.pdb
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\obj\Debug\net6.0\LW3.1.csproj.AssemblyReference.cache
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\obj\Debug\net6.0\LW3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\obj\Debug\net6.0\LW3.1.AssemblyInfoInputs.cache
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\obj\Debug\net6.0\LW3.1.AssemblyInfo.cs
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\obj\Debug\net6.0\LW3.1.csproj.CoreCompileInputs.cache
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\obj\Debug\net6.0\LW3.1.dll
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\obj\Debug\net6.0\refint\LW3.1.dll
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\obj\Debug\net6.0\LW3.1.pdb
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\obj\Debug\net6.0\LW3.1.genruntimeconfig.cache
+C:\Users\ageev\Desktop\IS\LW3\LW3.1\obj\Debug\net6.0\ref\LW3.1.dll
