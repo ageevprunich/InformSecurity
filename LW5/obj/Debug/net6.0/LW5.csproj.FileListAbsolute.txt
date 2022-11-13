@@ -1,0 +1,15 @@
+C:\Users\ageev\Desktop\IS\LW5\obj\Debug\net6.0\LW5.csproj.AssemblyReference.cache
+C:\Users\ageev\Desktop\IS\LW5\obj\Debug\net6.0\LW5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ageev\Desktop\IS\LW5\obj\Debug\net6.0\LW5.AssemblyInfoInputs.cache
+C:\Users\ageev\Desktop\IS\LW5\obj\Debug\net6.0\LW5.AssemblyInfo.cs
+C:\Users\ageev\Desktop\IS\LW5\obj\Debug\net6.0\LW5.csproj.CoreCompileInputs.cache
+C:\Users\ageev\Desktop\IS\LW5\bin\Debug\net6.0\LW5.exe
+C:\Users\ageev\Desktop\IS\LW5\bin\Debug\net6.0\LW5.deps.json
+C:\Users\ageev\Desktop\IS\LW5\bin\Debug\net6.0\LW5.runtimeconfig.json
+C:\Users\ageev\Desktop\IS\LW5\bin\Debug\net6.0\LW5.dll
+C:\Users\ageev\Desktop\IS\LW5\bin\Debug\net6.0\LW5.pdb
+C:\Users\ageev\Desktop\IS\LW5\obj\Debug\net6.0\LW5.dll
+C:\Users\ageev\Desktop\IS\LW5\obj\Debug\net6.0\refint\LW5.dll
+C:\Users\ageev\Desktop\IS\LW5\obj\Debug\net6.0\LW5.pdb
+C:\Users\ageev\Desktop\IS\LW5\obj\Debug\net6.0\LW5.genruntimeconfig.cache
+C:\Users\ageev\Desktop\IS\LW5\obj\Debug\net6.0\ref\LW5.dll
